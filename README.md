@@ -1,3 +1,3 @@
 Dep Ed Project
 
-This project is licensed under the WTFPL License.
+This project is licensed under the ©WTFPL License.

@@ -1,1 +1,15 @@
+a {
+    font-family: Arial;
+    color: black;
+    text-decoration: none;
+    background-color: lightgray;
+    padding: 1%;
+    border-radius: 9px;
+}
 
+.topnav {
+    background-color: white;
+    float: left;
+    color: black;
+    width: 1000px;
+}

@@ -1,9 +1,6 @@
 Dep Ed Project
 
-Experimental branch for testing lol
-Don't.
-
-help me :'(
+Merged into main branch
 
 --------------------------
 

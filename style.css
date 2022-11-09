@@ -40,5 +40,8 @@ h2 {
 }
 
 .mainpage {
+    padding: 2%;
+    margin: 2%;
+    background-color: lightgray;
     font-family: Arial;
 }
